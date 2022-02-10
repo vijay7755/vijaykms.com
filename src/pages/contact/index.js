@@ -71,7 +71,7 @@ const Contact = () => {
                     <h1>Let's talk !</h1>
                     <div>
                         <p>If you want to hire me or invite me into a project, just email me on</p>
-                        <a target="_blank" href="mailto:mailto:vijaysekar2295@gmail.com">vijaysekar2295@gmail.com</a>
+                        <a target="_blank" rel="noopener noreferrer" href="mailto:mailto:vijaysekar2295@gmail.com">vijaysekar2295@gmail.com</a>
                     </div>
                     <div>
                         <p>You can reach out to me through social media:</p>

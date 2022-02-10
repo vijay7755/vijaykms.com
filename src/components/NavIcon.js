@@ -46,6 +46,8 @@ const NavIcon = ({ path, text, icon }) => {
                 return <Blog width={35} height={35} fill={iconFill} />
             case "contact":
                 return <Contact width={35} height={35} fill={iconFill} />
+            default:
+                return
         }
     }
 

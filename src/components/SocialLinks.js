@@ -19,6 +19,8 @@ const SocialLinks = ({ site, link, hoverColor, delay }) => {
                 return <GitHub width={30} height={30} fill={socialIconFill} />
             case "medium":
                 return <Medium width={30} height={30} fill={socialIconFill} />
+            default:
+                return
         }
     }
     return (
