@@ -1,0 +1,76 @@
+[
+    {
+        "title": "Full-Stack Developer",
+        "company": "Redblacktree technologies",
+        "period": "Aug 2021 - Present",
+        "work": [
+            "Developed various modules and components in the front-end side of the application using React.",
+            "Handled the role-based authentication system in the application.",
+            "Analysed and fixed more than 200 bugs in the application.",
+            "Worked in apollo client and Graphql to manage API calls.",
+            "Optimize the API calls in various modules while loading(rendering) the components.",
+            "Worked in various libraries in the application such as i18next, formik, react-csv, react-pdf, highcharts, apexcharts, etc."
+        ],
+        "technologies": [
+            "React.JS",
+            "GraphQL",
+            "Node.JS",
+            "JavaScript - ES6 & ES5",
+            "styled components",
+            "Material UI"
+        ]
+    },
+    {
+        "title": "Front-End Engineer",
+        "company": "Redblacktree technologies",
+        "period": "Oct 2020 - July 2021",
+        "work": [
+            "Single-Handedly developed the desktop application using Electron.js",
+            "Used React.JS for the Frontend module and used redux for the state mamagment",
+            "Wrote the core functionality in data Engineering which will process more than 100 thousand records in less than 10 seconds using Python",
+            "Developed API server in Node.js(used Express) which is connected to mySQL database."
+        ],
+        "technologies": [
+            "React.JS",
+            "Electron",
+            "Node.JS",
+            "JavaScript - ES6 & ES5",
+            "MySQL",
+            "Python"
+        ]
+    },
+    {
+        "title": "Software Development Analyst (Front-End)",
+        "company": "Accenture",
+        "period": "Jun 2019 - Sep 2020",
+        "work": [
+            "Worked in the web application development using Angular framework, Bootstrap and other third party libraries.",
+            "Handled the application state using NGRX.",
+            "Created multiple Dashboards for the generated cost models.",
+            "Done the upgradation of angular package to the latest supported version (9)."
+        ],
+        "technologies": [
+            "Angular",
+            "NGRX",
+            "RxJs",
+            "Typescript",
+            "Bootstrap"
+        ]
+    },
+    {
+        "title": "Associate Software Engineer",
+        "company": "Accenture",
+        "period": "May 2017 - May 2019",
+        "work": [
+            "Created the page component and presentation component of admin and services modules in Angular.",
+            "Developed the core functionality for various use cases in health care using Scala and Spark."
+        ],
+        "technologies": [
+            "Angular",
+            "HTML",
+            "CSS",
+            "Typecsript",
+            "Scala"
+        ]
+    }
+]

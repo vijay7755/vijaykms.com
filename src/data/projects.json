@@ -1,0 +1,94 @@
+[
+    {
+        "title": "Trane Connect Digital",
+        "client": "Trane Technologies",
+        "description": "Trane Connect Digital is an IOT smart control application to analyse and enhance the building energy usage. It analyses energy data and equipment behaviour in the context of the overall system to see what’s happening in the building and provides the uncover hidden information and opportunities for improvement of the building energy usage.",
+        "role": [
+            "• Developed various modules and components in the front-end side of the application using React.",
+            "• Analysed and fixed more than 200 bugs in the application.",
+            "• Worked in apollo client and Graphql to manage API calls.",
+            "• Optimize the API calls in more than 10 modules while loading(rendering) the components.",
+            "• Worked in various libraries in the application such as i18next, formik, react-csv, react-pdf, highcharts, apexcharts, etc.",
+            "• Handled the role-based authentication system in the application."
+        ],
+        "tech": [
+            "React.JS",
+            "GraphQL",
+            "Node.JS",
+            "JavaScript - ES6 & ES5",
+            "styled components",
+            "Apollo client"
+        ]
+    },
+    {
+        "title": "Energy Optics",
+        "client": "Trane Technologies",
+        "description": "A desktop application which performs data cleaning and data engineering on various file formats such as Excel, CSV, PDF and XML to produce a consistent formatted data.",
+        "role": [
+            "• Single-Handedly developed the entire application in Electron.js which incorporates React in it.",
+            "• Created all presentation and functional components in React with MVC architecture.",
+            "• Incorporates Redux for the UI state management.",
+            "• Wrote the core functionality in data Engineering which will process more than 100 thousand records in less than 10 seconds using Python (used various data structure algorithms).",
+            "• Developed various modules in data cleaning and data processing using Pandas, Numpy and Datetime libraries in Python.",
+            "• Developed API server in Node.js(used Express) which is connected to mySQL database."
+        ],
+        "tech": [
+            "React.JS",
+            "Electron",
+            "Node.JS",
+            "JavaScript - ES6 & ES5",
+            "MySQL",
+            "Python"
+        ]
+    },
+    {
+        "title": "CIO – Accenture Internal",
+        "client": "Accenture",
+        "description": "CIO is a budget management web application to generate a cost estimation model for the project resource and requirement.",
+        "role": [
+            "• Done the migration of the application from ASP.Net to Angular.",
+            "• Created multiple Dashboards for the generated cost models.",
+            "• Done the upgradation of angular package to the latest supported version."
+        ],
+        "tech": [
+            "Angular",
+            "Typescript",
+            "Material UI",
+            "RxJs"
+        ]
+    },
+    {
+        "title": "Enterprise Eligibility Service",
+        "client": "HCSC - Accenture",
+        "description": "Trane Connect Digital is an IOT smart control application to analyse and enhance the building energy usage. It analyses energy data and equipment behaviour in the context of the overall system to see what’s happening in the building and provides the uncover hidden information and opportunities for improvement of the building energy usage.",
+        "role": [
+            "• Developed the core functionality for data processing and data extraction using Scala and Spark.",
+            "• Standardize the angular package using sonar lint.",
+            "• Handled the application state using NGRX."
+        ],
+        "tech": [
+            "Angular",
+            "Typescript",
+            "RxJs",
+            "NGRX",
+            "Bootstrap"
+        ]
+    },
+    {
+        "title": "Health Analytics",
+        "client": "Accenture",
+        "description": "It is a Data Engineering application in Health care domain which provides Data Ingestion, Data Standardization, Data Aggregation, Data Analytics and Data Science.",
+        "role": [
+            "• Developed the core functionality for various use cases in health care using Scala and Spark.",
+            "• Created the page component and presentation component in all modules in Angular.",
+            "• Done unit testing and integration testing for all the components."
+        ],
+        "tech": [
+            "Angular",
+            "HTML",
+            "CSS",
+            "Typecsript",
+            "Scala"
+        ]
+    }
+]

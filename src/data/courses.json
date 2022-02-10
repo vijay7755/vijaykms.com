@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Advanced Javascript",
+        "platform": "Udemy",
+        "instructor": "Jonas Schmedtmann"
+    },
+    {
+        "title": "React/Redux Complete Guide",
+        "platform": "Udemy",
+        "instructor": "Stephen Grider"
+    },
+    {
+        "title": "JavaScript Algorithms and Data Structures Masterclass",
+        "platform": "Udemy",
+        "instructor": "Colt Steele"
+    },
+    {
+        "title": "The Complete Node.js Developer Course",
+        "platform": "Udemy",
+        "instructor": "Andrew Mead"
+    },
+    {
+        "title": "Angular - The Complete Guide",
+        "platform": "Udemy",
+        "instructor": "Maximilian Schwarzmüller"
+    },
+    {
+        "title": "AWS",
+        "platform": "Simplilearn",
+        "instructor": "-"
+    }
+]

@@ -1,0 +1,78 @@
+{
+    "technical": [
+        {
+            "skill": "React.js",
+            "percentage": 95
+        },
+        {
+            "skill": "Angular",
+            "percentage": 80
+        },
+        {
+            "skill": "HTML",
+            "percentage": 90
+        },
+        {
+            "skill": "CSS/Sass",
+            "percentage": 85
+        },
+        {
+            "skill": "Javascript",
+            "percentage": 95
+        },
+        {
+            "skill": "Node.js",
+            "percentage": 80
+        },
+        {
+            "skill": "AWS",
+            "percentage": 75
+        },
+        {
+            "skill": "Python",
+            "percentage": 70
+        }
+    ],
+    "specialization": [
+        {
+            "main": "PWA, ES6, State Management",
+            "sub": "(Redux, NGRX)"
+        },
+        {
+            "main": "Cloud Computing Platforms",
+            "sub": "(AWS EC2, Firebase)"
+        },
+        {
+            "main": "Continuous Integration & Continuous Deployment",
+            "sub": ""
+        },
+        {
+            "main": "User Interface/Product Design",
+            "sub": ""
+        },
+        {
+            "main": "Native, desktop application",
+            "sub": "(Electron.JS)"
+        },
+        {
+            "main": "Database",
+            "sub": "(MySQL, MongoDB)"
+        },
+        {
+            "main": "UX Designer tool",
+            "sub": "(Figma, Illustrator)"
+        },
+        {
+            "main": "Version Control",
+            "sub": "(GitHub, GitLab)"
+        }
+    ],
+    "interpersonal": [
+        "Analytical thinking",
+        "Team work",
+        "Problem solving",
+        "Creative designing",
+        "Management",
+        "Leadership"
+    ]
+}

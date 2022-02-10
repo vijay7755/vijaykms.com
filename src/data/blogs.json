@@ -1,0 +1,65 @@
+[
+    {
+        "creator": "Vijay KMS",
+        "title": "Send Email Campaign using Node.Js and Mailchimp API",
+        "link": "https://medium.com/geekculture/send-email-campaign-using-node-js-and-mailchimp-api-9e38a51054b4?source=rss-86557fe30ba4------2",
+        "img_link": "https://cdn-images-1.medium.com/max/1024/1*dsCLua-wdb1qDvvAfz8MmA.jpeg",
+        "pubDate": "28 Jul 2021",
+        "content": "Create lists of audience and send Digital Marketing Campaign from the node.Js application by using Mailchimp Email provider.",
+        "guid": "https://medium.com/p/9e38a51054b4",
+        "categories": [
+            "api",
+            "email-marketing",
+            "mailchimp",
+            "nodejs",
+            "javascript"
+        ]
+    },
+    {
+        "creator": "Vijay KMS",
+        "title": "OAuth Authentication System- Behind the scenes",
+        "link": "https://medium.com/geekculture/oauth-authentication-system-behind-the-scenes-e0720a3c31ab?source=rss-86557fe30ba4------2",
+        "img_link": "https://cdn-images-1.medium.com/max/1024/0*Dio3RazBrBvlv_u2",
+        "pubDate": "30 May 2021",
+        "content": "All you need to know about OAuth authentication. Understand the OAuth operational flow by implementing it in the Node.js application.",
+        "guid": "https://medium.com/p/e0720a3c31ab",
+        "categories": [
+            "expressjs",
+            "google-cloud-platform",
+            "nodejs",
+            "oauth",
+            "javascript"
+        ]
+    },
+    {
+        "creator": "Vijay KMS",
+        "title": "Essential desktop application attributes in Electron",
+        "link": "https://medium.com/redblacktree/essential-desktop-application-attributes-in-electron-2118352cc3d5?source=rss-86557fe30ba4------2",
+        "img_link": "https://cdn-images-1.medium.com/max/1024/0*N2gQTc8s2-kjGqFM",
+        "pubDate": "18 May 2021",
+        "content": "This article describes the implementation of a few essential desktop application’s feature such as menu bar, dialog box and tray using electron.",
+        "guid": "https://medium.com/p/2118352cc3d5",
+        "categories": [
+            "desktop-app",
+            "nodejs",
+            "electronjs",
+            "javascript"
+        ]
+    },
+    {
+        "creator": "Vijay KMS",
+        "title": "Big O Performance of Arrays and Objects in JavaScript",
+        "link": "https://javascript.plainenglish.io/performance-of-arrays-and-objects-in-javascript-through-the-lens-of-big-o-5a7c5891a43f?source=rss-86557fe30ba4------2",
+        "img_link": "https://cdn-images-1.medium.com/max/1024/0*QEzIcNmQqphqXi91",
+        "pubDate": "15 Apr 2021",
+        "content": "Understand the concept of Big-O notation quickly in terms of time complexity. Big-0 notation helps in calculating the efficiency of an algorithm formally.",
+        "guid": "https://medium.com/p/5a7c5891a43f",
+        "categories": [
+            "software-development",
+            "programming",
+            "computer-science",
+            "javascript",
+            "web-development"
+        ]
+    }
+]
