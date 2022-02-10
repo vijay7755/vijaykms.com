@@ -11,6 +11,7 @@ import Skills from "pages/skills"
 import Blogs from "pages/blogs"
 import Work from "pages/work"
 import Contact from "pages/contact"
+import NotFoundPage from "pages/notFound"
 
 const App = () => {
 
@@ -25,6 +26,7 @@ const App = () => {
                     <Route path="/blogs" element={<Blogs />} />
                     <Route path="/work" element={<Work />} />
                     <Route path="/contact" element={<Contact />} />
+                    <Route path="*" element={<NotFoundPage />} />
                 </Routes>
             </ThemeProvider>
         </ BrowserRouter>
