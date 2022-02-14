@@ -28,6 +28,9 @@ const Icon = styled.div`
         
     }
 `
+const NavigationLink = styled(NavLink)`
+    text-decoration: none;
+`
 
 const NavIcon = ({ path, text, icon }) => {
     const [iconFill, setIconFill] = useState(primeTheme.secondary)
@@ -55,10 +58,10 @@ const NavIcon = ({ path, text, icon }) => {
         <Icon
             onMouseOver={() => setIconFill(primeTheme.primary)}
             onMouseOut={() => setIconFill(primeTheme.secondary)}>
-            <NavLink to={path}>
+            <NavigationLink to={path}>
                 {renderIcon()}
                 <p>{text}</p>
-            </NavLink>
+            </NavigationLink>
         </Icon>
     )
 }

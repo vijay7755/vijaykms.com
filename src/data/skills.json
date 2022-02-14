@@ -25,10 +25,6 @@
             "percentage": 80
         },
         {
-            "skill": "AWS",
-            "percentage": 75
-        },
-        {
             "skill": "Python",
             "percentage": 70
         }
@@ -40,7 +36,7 @@
         },
         {
             "main": "Cloud Computing Platforms",
-            "sub": "(AWS EC2, Firebase)"
+            "sub": "(Firebase)"
         },
         {
             "main": "Continuous Integration & Continuous Deployment",
